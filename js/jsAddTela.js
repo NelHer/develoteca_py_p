@@ -1,3 +1,4 @@
+/*
 function toggleFields() {
     // Obtener todos los elementos con id 'sectionNombreTela', 'sectionPrecioTela', etc.
     const sectionNombreTela = document.getElementById("sectionNombreTela");
@@ -30,3 +31,5 @@ function toggleFields() {
 
   // Agregar un controlador de eventos al elemento con id "fotoTela"
   document.getElementById("fotoTela").addEventListener("change", toggleFields);
+
+*/
